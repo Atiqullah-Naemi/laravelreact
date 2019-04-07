@@ -1,2 +1,2 @@
-require("./bootstrap");
-require("./components/Example");
+import Bootstrap from "./bootstrap";
+import Main from "./components/Main";

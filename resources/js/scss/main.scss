@@ -1,0 +1,23 @@
+.add-new-client {
+	display: flex !important;
+	max-width: 250px;
+	margin: 30px 5px 30px auto !important;
+	font-size: 18px !important;
+}
+
+.clients {
+	th,
+	td {
+		font-size: 18px;
+	}
+}
+
+.add-ddit-client {
+	input,
+	button,
+	label,
+	#alert-dialog-slide-title h2 {
+		font-size: 18px;
+		font-weight: 100;
+	}
+}
